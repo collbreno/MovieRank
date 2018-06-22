@@ -1,3 +1,3 @@
 # MovieRank
 
-MovieRank È um projeto desenvolvido em Python para a matÈria ¡lgebra Linear AlgorÌtmica. O programa consiste em ordenar os filmes por ordem de import‚ncia, baseado no algoritmo de PageRank. Para an·lise foram coletados os doze filmes recomendados por cada um dos 150 primeiros da lista dos mais votados do site IMDb. TambÈm est· disponÌvel no Colab, ![aqui](https://colab.research.google.com/drive/159RjHEJO_qBLsqsJHn2tkyD5Y4F0OkX4#scrollTo=KmJp5Sc9feTT)
+MovieRank √© um projeto desenvolvido em Python para a mat√©ria √Ålgebra Linear Algor√≠tmica. O programa consiste em ordenar os filmes por ordem de import√¢ncia, baseado no algoritmo de PageRank. Para an√°lise foram coletados os doze filmes recomendados por cada um dos 150 primeiros da lista dos mais votados do site IMDb. Tamb√©m est√° dispon√≠vel no Colab, [aqui](https://colab.research.google.com/drive/159RjHEJO_qBLsqsJHn2tkyD5Y4F0OkX4#scrollTo=KmJp5Sc9feTT)
